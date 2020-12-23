@@ -1,0 +1,10 @@
+{
+     "name": "australian_greens/org.civicoop.validatechecksumapi",
+     "type": "drupal-module",
+     "description": "CiviCooP extension for validating contact checksums via API",
+     "require": {
+       "composer/installers": "~1.0",
+       "drupal/drupal": "~7"
+     }
+
+}
